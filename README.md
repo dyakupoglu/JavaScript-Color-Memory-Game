@@ -8,7 +8,7 @@
 ![js_color_memory_game_1](./Project_Images/js_color_memory_game_1.PNG)
 
 ### Project Image - 2
-![js_color_memory_game_2](./Project_Images/js_color_memory_game_2.png)
+![js_color_memory_game_2](./Project_Images/js_color_memory_game_2.PNG)
 
 ### Project Image - 3
 ![js_color_memory_game_3](./Project_Images/js_color_memory_game_3.PNG)
