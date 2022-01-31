@@ -1,5 +1,5 @@
 <!-- BODY -->
-# JavaScript Floating Object
+# JavaScript Color Memory Game
 
 <!-- PROJECT IMAGES -->
 ## Project Images
